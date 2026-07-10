@@ -126,9 +126,7 @@ The implemented model consists of:
 
 ## 📈 Results
 
-The CNN model achieved:
-
-**Test Accuracy: 83.03%**
+The CNN model achieved a **test accuracy of 83.03%** on unseen flower images.
 
 The evaluation included:
 
@@ -139,6 +137,30 @@ The evaluation included:
 - Prediction Confidence
 
 The model demonstrated good generalization performance on unseen flower images.
+
+### 📊 Accuracy Curve
+
+![Accuracy Curve](images/accuracy.png)
+
+### 📉 Loss Curve
+
+![Loss Curve](images/loss.png)
+
+### 🔍 Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+## 🌼 Sample Predictions
+
+### Prediction Example 1
+
+![Prediction 1](images/prediction1.png)
+
+### Prediction Example 2
+
+![Prediction 2](images/prediction2.png)
 
 ---
 
