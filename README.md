@@ -189,16 +189,10 @@ The model demonstrated good generalization performance on unseen flower images.
 ---
 
 
----
-
 ## 👩‍💻 Team Members
 
 - Reham Alhmaidi
 - Lojain Alahmadi
 - Lama Alqahtani
 
----
 
-## 📄 License
-
-This project is intended for educational and learning purposes.
