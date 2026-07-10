@@ -188,37 +188,6 @@ The model demonstrated good generalization performance on unseen flower images.
 
 ---
 
-## 📂 Project Structure
-
-```
-flower-classification-cnn/
-
-│── Flower_Classification_CNN.ipynb
-│── README.md
-│── requirements.txt
-│
-└── images/
-      accuracy.png
-      loss.png
-      confusion_matrix.png
-      prediction.png
-```
-
----
-
-## ⚡ Installation
-
-```bash
-git clone https://github.com/your-username/flower-classification-cnn.git
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the notebook.
 
 ---
 
